@@ -16,9 +16,9 @@ import time as t
 import re #正解判別
 start_t=t.time()
 #画像サイズ
-imsize = (96, 96)
+imsize = (224, 224)
 #人数
-people=9
+people=3
 #認識したい画像のパスを指定する
 # ./blog_testpic/xxx.jpg といった指定を意味する
 testpic = "./Auth/"
