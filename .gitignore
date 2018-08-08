@@ -1,4 +1,4 @@
-/face/*
-/face.bak/*
-/model/*
-/Auth/*
+#/face/*
+#/face.bak/*
+#/model/*
+#/Auth/*
