@@ -1,4 +1,7 @@
-#/face/*
-#/face.bak/*
-#/model/*
-#/Auth/*
+/face/*.jpg
+/face/*.png
+/face.bak/*.jpg
+/face.bak/*.png
+/model/*
+/Auth/*
+/logs/*
